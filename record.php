@@ -2,9 +2,9 @@
 //turn on debugging messages
 ini_set('display_errors', 'On');
 error_reporting(E_ALL);
-define('DATABASE', 'mer4');
-define('USERNAME', 'mer4');
-define('PASSWORD', '2kXQOxHZC');
+define('DATABASE', 'zc88');
+define('USERNAME', 'zc88');
+define('PASSWORD', 'JlsWkMNE3');
 define('CONNECTION', 'sql2.njit.edu');
 class dbConn{
     //variable to hold connection object.
